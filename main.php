@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:         WordPress Starter Plugin
+ * Plugin Name:         WordPress Starter Plugin - Vue
  * Description:         WordPress Starter Plugin - PHP ^8.3
  * Version:             13.1.6
  * Requires at least:   6.4
