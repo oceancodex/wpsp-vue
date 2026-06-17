@@ -13,7 +13,7 @@ return [
     |
     */
 
-	'name' => env('WPSP_APP_NAME', 'WPSP'),
+	'name' => env('WPSP_APP_NAME', 'WPSP Framework - WordPress Starter Plugin'),
 
 	/*
 	|--------------------------------------------------------------------------
