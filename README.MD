@@ -2,6 +2,9 @@
 ### A great framework that makes WordPress plugin development easier!
 
 ---
+> [!NOTE]
+> This version includes the Vue framework.
+
 Before creating your first **WPSP** project, make sure you have the following applications installed on your local computer:
 
 - PHP: **^8.2**
